@@ -14,12 +14,35 @@ Full credit for pioneering and porting GameCube/Wii emulation to muOS belongs to
 * @bitter_bizarro: Adopted the core to make it compatible with the muOS Goose firmware version.
 * muOS Development Team: For their ongoing firmware maintenance and structural support.
 
+
+
 ------------------------------
-If you like, I can help you with:
+## Installation Guide: Dolphin Core for muOS
+⚠️ ATTENTION (Mandatory Pre-requisite): Before running the new installer, you must completely remove all previous versions of the core to prevent file conflicts and read errors.
+## 🗑️ Step 1: Cleaning Previous Folders
+Connect your SD card to your PC or use the built-in File Manager on your console to permanently delete the following folders and files before running the new installer:
 
-* Translating the installation guide steps into English.
-* Explaining the PAL ROMs golden tip to boost your FPS.
-* Detailing the hotkey layouts for devices without analog sticks.
+   1. \opt\muos\share\info\assign
+   2. \opt\muos\share\emulator\dolphin 
+   3. \opt\muos\share\emulator\gptokeyb\ext-dolphin.gptk
 
-Let me know what you would like to explore next!
+------------------------------
+## 📥 Step 2: Installation Process
+After ensuring that the system is clean of legacy files, follow these steps:
+
+   1. Download the File: Fetch the updated installation package (file with the .muxupd extension).
+   2. Transfer to the Card: Place the copied .muxupd file inside the ARCHIVE folder on either your SD1 or SD2 card.
+   3. Access the Manager: Turn on your console, go to the muOS main menu, and navigate to Applications ➔ Archive Manager.
+   4. Execute Installation: Select the Dolphin Core update file and confirm to start the automatic extraction and installation process.
+
+------------------------------
+## 🎮 Step 3: Setup and Launch Games
+
+   1. Open Content Explorer from the muOS main menu.
+   2. Navigate to the directory where you store your Nintendo GameCube or Nintendo Wii ROMs.
+   3. Press the options button on the game (or folder) and match it with the corresponding Dolphin Core profile.
+   4. Launch the title and enjoy the optimized emulation!
+
+
+
 
