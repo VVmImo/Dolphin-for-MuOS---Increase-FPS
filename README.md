@@ -22,7 +22,7 @@ Full credit for pioneering and porting GameCube/Wii emulation to muOS belongs to
 ## 🗑️ Step 1: Cleaning Previous Folders
 Connect your SD card to your PC or use the built-in File Manager on your console to permanently delete the following folders and files before running the new installer:
 
-   1. \opt\muos\share\info\assign
+   1. \opt\muos\share\info\assign\Game Cube
    2. \opt\muos\share\emulator\dolphin 
    3. \opt\muos\share\emulator\gptokeyb\ext-dolphin.gptk
 
