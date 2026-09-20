@@ -1,3 +1,5 @@
+Discontinued, see the new versions.
+
 Releases  https://github.com/VVmImo/Dolphin-for-MuOS---Increase-FPS/releases
 ------------------------------
 ## Introduction to Dolphin Core for muOS
