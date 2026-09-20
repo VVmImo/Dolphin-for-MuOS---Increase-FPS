@@ -1,4 +1,5 @@
-Discontinued, see the new versions.  https://github.com/VVmImo/Dolphin-V-V-mImo-Standalone-KNULLI
+Discontinued
+
 
 Releases  https://github.com/VVmImo/Dolphin-for-MuOS---Increase-FPS/releases
 ------------------------------
